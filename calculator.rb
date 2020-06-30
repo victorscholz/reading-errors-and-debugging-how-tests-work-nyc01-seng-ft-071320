@@ -1,5 +1,2 @@
 # Add your variables here
-
-def first_number
-
-end
+first_number = 1
